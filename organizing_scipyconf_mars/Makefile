@@ -1,6 +1,6 @@
 MARP=marp
 OPTS=--allow-local-files --image-scale 5
-SLIDES=want_some_porkchop.md
+SLIDES=index.md
 
 slides:
 	$(MARP) $(OPTS) $(SLIDES)
