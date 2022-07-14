@@ -2,6 +2,7 @@
 _class: lead
 paginate: true
 backgroundColor: #fff
+draft: true
 ---
 
 ![bg left:40% 80%](img/scipy_logo.png)
