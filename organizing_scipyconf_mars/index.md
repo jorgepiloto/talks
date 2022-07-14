@@ -9,15 +9,15 @@ draft: true
 
 # How to organize SciPyConf Mars Edition
 
-A SciPyConf lighning talk by Jorge Martínez :zap:
+A SciPyConf lightning talk by Jorge Martínez :zap:
 https://jorgemartinez.space/
 
 ---
-# Its year 2123 and ...
+# It's year 2123 and ...
 
 ![bg left 75%](img/mars.jpg)
 
-* SciPyConf is hosted in Mars
+* SciPyConf is hosted in Mars.
 * How do we get there?
 * Which is the best date for SciPyConf Mars? :thinking:
 ---
