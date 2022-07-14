@@ -68,8 +68,8 @@
 <span class="hljs-keyword">from</span> poliastro.util <span class="hljs-keyword">import</span> time_range
 
 <span class="hljs-comment"># Select a range of launch and arrival dates</span>
-launch_span = time_range(<span class="hljs-string">&quot;2122-01-01&quot;</span>, end=<span class="hljs-string">&quot;2123-01-01&quot;</span>)
-arrival_span = time_range(<span class="hljs-string">&quot;2123-01-01&quot;</span>, end=<span class="hljs-string">&quot;2124-01-01&quot;</span>)
+launch_span = time_range(<span class="hljs-string">&quot;2122-08-15&quot;</span>, end=<span class="hljs-string">&quot;2123-01-01&quot;</span>, periods=<span class="hljs-number">150</span>)
+arrival_span = time_range(<span class="hljs-string">&quot;2123-01-01&quot;</span>, end=<span class="hljs-string">&quot;2124-01-01&quot;</span>, periods=<span class="hljs-number">150</span>)
 
 <span class="hljs-comment"># Generate the porkchop</span>
 porkchop_plot = PorkchopPlotter(Earth, Mars, launch_span, arrival_span)
