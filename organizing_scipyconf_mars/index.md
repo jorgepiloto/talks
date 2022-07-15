@@ -53,6 +53,9 @@ What orbit should I use, mom? :thinking:
 ![](img/lamberthub_readme.png)
 
 ---
+![bg 50%](img/lambert_lamberthub.png)
+
+---
 
 # Cool! We already know how to go to Mars :rocket:
 * Now the question is...
@@ -62,6 +65,9 @@ What orbit should I use, mom? :thinking:
 # When should we go to Mars?
 * Porkchops to the rescue!
 * Yeah, we have those in **poliastro**, no worries :wink:
+
+---
+![bg fit](img/newton_poliastro.png)
 
 ---
 
